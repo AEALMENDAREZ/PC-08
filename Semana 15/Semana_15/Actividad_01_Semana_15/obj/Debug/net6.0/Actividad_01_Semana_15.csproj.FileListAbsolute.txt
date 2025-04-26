@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\bin\Debug\net6.0\Actividad_01_Semana_15.exe
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\bin\Debug\net6.0\Actividad_01_Semana_15.deps.json
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\bin\Debug\net6.0\Actividad_01_Semana_15.runtimeconfig.json
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\bin\Debug\net6.0\Actividad_01_Semana_15.dll
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\bin\Debug\net6.0\Actividad_01_Semana_15.pdb
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.dll
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\refint\Actividad_01_Semana_15.dll
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.pdb
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\Actividad_01_Semana_15.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\URL Códigos\Semana_15\Actividad_01_Semana_15\obj\Debug\net6.0\ref\Actividad_01_Semana_15.dll
